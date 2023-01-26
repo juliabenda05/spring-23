@@ -1,6 +1,6 @@
 ---
 title: Burritos
-description: These are the best places to get burritos, pancheros and chipotle
+description: These are the best places to get burritos, pancheros and chipotle.
 date: 2018-05-01
 tags:
   - another tag
