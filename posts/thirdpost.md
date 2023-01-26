@@ -1,6 +1,6 @@
 ---
-title: This is the third post.
-description: This is the description of the third post.
+title: Burritos
+description: These are the best sides to have with a burrito. Chips and queso and rice. 
 date: 2018-08-24
 tags:
   - second tag
