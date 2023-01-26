@@ -1,6 +1,6 @@
 ---
-title: This is the second post.
-description: This is the description of the second post.
+title: Burritos are good
+description: The best ingredients in a burrito are beans, rice, chicken, veggies, and salsa.
 date: 2018-07-04
 tags:
   - number 2
