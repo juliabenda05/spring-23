@@ -1,13 +1,13 @@
 ---
-title: Burritos
-description: These are the best sides to have with a burrito. Chips and queso and rice. 
+title: How to make a burrito with a perfect tortilla  
+description: Master a good tortilla and make an excellent burrito with these helpful tips.
 date: 2018-08-24
 tags:
   - second tag
   - posts with two tags
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+**The tortilla is the most important part of any burrito.** There is a delicate balance between making a tortilla too crispy or not cooking it enough where the dough is still sticky. Not only will a **tortilla affect the taste of your burrito**, tacos, or other dish, but it will also impact whether or not your burrito wraps easily. Read on for **how to make a perfect tortilla**, and ultimately your **best burrito yet! **
 
 ``` js/2/4
 // this is a command
