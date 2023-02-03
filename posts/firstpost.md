@@ -1,5 +1,5 @@
 ---
-title: Burritos
+title: The Best Places to Get a Burrito
 description: These are the best places to get burritos - pancheros and chipotle.
 date: 2018-05-01
 tags:
