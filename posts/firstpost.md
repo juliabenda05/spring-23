@@ -1,5 +1,5 @@
 ---
-title: How to make a burrito better than Chipotle.
+title: How to easily to make a burrito better than Chipotle.
 description: Make the best burrito you have ever had.
 date: 2018-05-01
 tags:
@@ -7,7 +7,7 @@ tags:
 layout: layouts/post.njk
 ---
 
-**Burritos** are a delicious, quick, and easy lunch or dinner. But rather than stopping at **Chipotle** for your next burrito craving, **make the best burrito** you have ever had at home. With a simple list of ingredients and instructions, you can easily make a burrito better than your favorite Mexican restaurant that will impress your friends and make you forget Chipotle and Pancheros ever existed!  
+**Burritos** are a delicious, quick, and easy lunch or dinner. But rather than stopping at **Chipotle** for your next burrito craving, **make the best burrito you have ever had** at home. With a **simple list of ingredients and instructions**, you can easily make a burrito better than your favorite Mexican restaurant. Grab your choice of protein, tortillas, and vegetables and get started with this **tasty burrito recipe** that will quickly become your go-to meal. 
 
 ## Section Header
 
