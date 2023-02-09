@@ -1,12 +1,12 @@
 ---
 title: These are the best sides to serve with a burrito
 description: The best sides with a burrito are beans, rice, veggies, and salsa.
-date: 2018-07-04
+date: 2018-09-04
 tags:
   - number 2
 layout: layouts/post.njk
 ---**
-It is important to find the right **side to put with your burrito**. Though burritos are amazing on their own, **serving a burrito with a side** can make your meal even better. Whether it is rice and beans, chips and salsa, or a side of veggies, finding the perfect side to serve with a burrito takes time. It can also depend on the type of burrito you are making, what beverage you are drinking, and whether you are wanting an appetizer or not. Here is a **list of sides to serve with your burrito** entree to make your meal taste even better and coordinate with the other aspects of your dining experience. 
+It is important to find the right **side to put with your burrito**. Though burritos are amazing on their own, **serving a burrito with a side** can make your meal even better. Whether it is rice and beans, chips and salsa, or a side of veggies, finding the perfect side to serve with a burrito takes time. It can also depend on the type of burrito you are making, what beverage you are drinking, and whether you are wanting an appetizer or not. Here is a **list of sides to serve with your burrito** to make your meal taste even better and coordinate with the other aspects of your dining experience. 
 
 ## Section Header
 
