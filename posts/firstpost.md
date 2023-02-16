@@ -1,5 +1,5 @@
 ---
-title: How to easily to make an amazing burrito
+title: How to easily to make an amazing chicken burrito
 description: Make the best burrito you have ever had.
 date: 2023-02-01
 tags:
@@ -11,7 +11,7 @@ layout: layouts/post.njk
 
 **List of ingredients:**
   1. tortillas
-  2. chicken/steak
+  2. chicken
   3. tomato
   4. lettuce
   5. white onion
