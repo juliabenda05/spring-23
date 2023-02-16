@@ -1,5 +1,5 @@
 ---
-title: How to easily to make a burrito better than Chipotle.
+title: How to easily to make an amazing burrito
 description: Make the best burrito you have ever had.
 date: 2023-02-01
 tags:
